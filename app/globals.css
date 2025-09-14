@@ -1,3 +1,4 @@
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -48,4 +49,9 @@ a {
   align-items: center;
   gap: 80px;
   min-height: 100vh;
+}
+
+.miButton {
+  padding: 6;
+  border-radius: 8px
 }
